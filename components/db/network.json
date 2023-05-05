@@ -1,0 +1,1252 @@
+{
+    "networks": [
+        {
+            "id": "1",
+            "attributes": {
+                "name": "Ethereum",
+                "identifier": "eth",
+                "chain_id": 1,
+                "explorer_url": "https://etherscan.io",
+                "explorer_tx_url": "https://etherscan.io",
+                "cg_network_id": "ethereum",
+                "native_currency_symbol": "ETH",
+                "native_currency_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+                "pool_reserve_threshold": "3.0",
+                "image_url": "https://assets.geckoterminal.com/bqu4tzciplldg2ojzx6ww5hd09ii",
+                "explorer_logo_url": "https://assets.geckoterminal.com/wrhs5qi10dpoprzy54z03yjoysnl"
+            }
+        },
+        {
+            "id": "2",
+            "attributes": {
+                "name": "BNB Chain",
+                "identifier": "bsc",
+                "chain_id": 56,
+                "explorer_url": "https://bscscan.com",
+                "explorer_tx_url": "https://bscscan.com",
+                "cg_network_id": "binance-smart-chain",
+                "native_currency_symbol": "BNB",
+                "native_currency_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+                "pool_reserve_threshold": "3.0",
+                "image_url": "https://assets.geckoterminal.com/rk3bsa3pl5h3h7frn6etl1v4opsz",
+                "explorer_logo_url": "https://assets.geckoterminal.com/s1br5picj51ctzmdsmmq638k74vk"
+            }
+        },
+        {
+            "id": "14",
+            "attributes": {
+                "name": "Arbitrum",
+                "identifier": "arbitrum",
+                "chain_id": 42161,
+                "explorer_url": "https://arbiscan.io",
+                "explorer_tx_url": "https://arbiscan.io",
+                "cg_network_id": "arbitrum-one",
+                "native_currency_symbol": "ETH",
+                "native_currency_address": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
+                "pool_reserve_threshold": "3.0",
+                "image_url": "https://assets.geckoterminal.com/b5pxe6whp95sgklpatj9rfkkj4ji",
+                "explorer_logo_url": "https://assets.geckoterminal.com/6qepiqebgvdsxcntqgcnr12lr4nx"
+            }
+        },
+        {
+            "id": "3",
+            "attributes": {
+                "name": "Polygon POS",
+                "identifier": "polygon_pos",
+                "chain_id": 137,
+                "explorer_url": "https://polygonscan.com",
+                "explorer_tx_url": "https://polygonscan.com",
+                "cg_network_id": "polygon-pos",
+                "native_currency_symbol": "ETH",
+                "native_currency_address": "0x7ceb23fd6bc0add59e62ac25578270cff1b9f619",
+                "pool_reserve_threshold": "1.5",
+                "image_url": "https://assets.geckoterminal.com/dau5esiwuf9jj9r0jchj9qgdhy8g",
+                "explorer_logo_url": "https://assets.geckoterminal.com/g1jiwnqu9suq9lyr8dyp13oga397"
+            }
+        },
+        {
+            "id": "23",
+            "attributes": {
+                "name": "Optimism",
+                "identifier": "optimism",
+                "chain_id": 10,
+                "explorer_url": "https://optimistic.etherscan.io",
+                "explorer_tx_url": "https://optimistic.etherscan.io",
+                "cg_network_id": "optimistic-ethereum",
+                "native_currency_symbol": "ETH",
+                "native_currency_address": "0x4200000000000000000000000000000000000006",
+                "pool_reserve_threshold": "3.0",
+                "image_url": "https://assets.geckoterminal.com/o2v9hloio02gxzmtsz3lzjoi4bqs",
+                "explorer_logo_url": "https://assets.geckoterminal.com/34fuuyw04o2kdagykc5xajlejrow"
+            }
+        },
+        {
+            "id": "630",
+            "attributes": {
+                "name": "Canto",
+                "identifier": "canto",
+                "chain_id": 7700,
+                "explorer_url": "https://evm.explorer.canto.io",
+                "explorer_tx_url": "https://evm.explorer.canto.io",
+                "cg_network_id": "canto",
+                "native_currency_symbol": "canto",
+                "native_currency_address": "0x826551890dc65655a0aceca109ab11abdbd7a07b",
+                "pool_reserve_threshold": "1000.0",
+                "image_url": "https://assets.geckoterminal.com/6p7bfea2bd6ifatgssykqzw5p574",
+                "explorer_logo_url": "https://assets.geckoterminal.com/fxs2n804yj84ew5439hs18bis1h3"
+            }
+        },
+        {
+            "id": "10",
+            "attributes": {
+                "name": "Fantom",
+                "identifier": "ftm",
+                "chain_id": 250,
+                "explorer_url": "https://ftmscan.com",
+                "explorer_tx_url": "https://ftmscan.com",
+                "cg_network_id": "fantom",
+                "native_currency_symbol": "FTM",
+                "native_currency_address": "0x21be370d5312f44cb42ce377bc9b8a0cef1a4c83",
+                "pool_reserve_threshold": "5000.0",
+                "image_url": "https://assets.geckoterminal.com/uvjtu2wc4pkwdqvoqkegb6zzib3n",
+                "explorer_logo_url": "https://assets.geckoterminal.com/fcb80l193gh53tzvyhnkc6z6md2c"
+            }
+        },
+        {
+            "id": "4",
+            "attributes": {
+                "name": "Avalanche",
+                "identifier": "avax",
+                "chain_id": 43114,
+                "explorer_url": "https://avascan.info/blockchain/c",
+                "explorer_tx_url": "https://avascan.info/blockchain/c",
+                "cg_network_id": "avalanche",
+                "native_currency_symbol": "AVAX",
+                "native_currency_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+                "pool_reserve_threshold": "20.0",
+                "image_url": "https://assets.geckoterminal.com/47cxwsny72lbsrc1t48r38v9hxoo",
+                "explorer_logo_url": "https://assets.geckoterminal.com/57v9iqxfuxd4c1q863gtghiphgyx"
+            }
+        },
+        {
+            "id": "399",
+            "attributes": {
+                "name": "Klaytn",
+                "identifier": "klaytn",
+                "chain_id": 8217,
+                "explorer_url": "https://scope.klaytn.com",
+                "explorer_tx_url": "https://scope.klaytn.com",
+                "cg_network_id": "klay-token",
+                "native_currency_symbol": "KLAY",
+                "native_currency_address": "0xe4f05a66ec68b54a58b17c22107b02e0232cc817",
+                "pool_reserve_threshold": "100.0",
+                "image_url": "https://assets.geckoterminal.com/jau52fbj8581xzasvr70vpjjnuzm",
+                "explorer_logo_url": "https://assets.geckoterminal.com/pnheq2aod0ai46iemlddt8ufjj6s"
+            }
+        },
+        {
+            "id": "27",
+            "attributes": {
+                "name": "Ronin",
+                "identifier": "ronin",
+                "chain_id": 2020,
+                "explorer_url": "https://explorer.roninchain.com",
+                "explorer_tx_url": "https://explorer.roninchain.com",
+                "cg_network_id": "ronin",
+                "native_currency_symbol": "eth",
+                "native_currency_address": "0xc99a6a985ed2cac1ef41640596c5a5f9f4e19ef5",
+                "pool_reserve_threshold": "1250.0",
+                "image_url": "https://assets.geckoterminal.com/dh5x7l6vsoccgge3bcx6hjqlpq95",
+                "explorer_logo_url": "https://assets.geckoterminal.com/gsyh3xy256xi6gos3t4dir5o50sv"
+            }
+        },
+        {
+            "id": "13",
+            "attributes": {
+                "name": "Metis",
+                "identifier": "metis",
+                "chain_id": 1088,
+                "explorer_url": "https://andromeda-explorer.metis.io",
+                "explorer_tx_url": "https://andromeda-explorer.metis.io",
+                "cg_network_id": "metis-andromeda",
+                "native_currency_symbol": "METIS",
+                "native_currency_address": "0xdeaddeaddeaddeaddeaddeaddeaddeaddead0000",
+                "pool_reserve_threshold": "20.0",
+                "image_url": "https://assets.geckoterminal.com/83e41lwqghcvo6lv0p11o2v2370j",
+                "explorer_logo_url": "https://assets.geckoterminal.com/9jomqybumeo1x6ejycus0ol45qkf"
+            }
+        },
+        {
+            "id": "8",
+            "attributes": {
+                "name": "Harmony",
+                "identifier": "one",
+                "chain_id": 1666600000,
+                "explorer_url": "https://explorer.harmony.one",
+                "explorer_tx_url": "https://explorer.harmony.one",
+                "cg_network_id": "harmony-shard-0",
+                "native_currency_symbol": "ONE",
+                "native_currency_address": "0xcf664087a5bb0237a0bad6742852ec6c8d69a27a",
+                "pool_reserve_threshold": "5000.0",
+                "image_url": "https://assets.geckoterminal.com/d21nu5y6v36xg1k0b2h6m6kiorxe",
+                "explorer_logo_url": "https://assets.geckoterminal.com/8waoqa3xw3wrwxo4som0rq7tdmal"
+            }
+        },
+        {
+            "id": "7",
+            "attributes": {
+                "name": "Cronos",
+                "identifier": "cro",
+                "chain_id": 25,
+                "explorer_url": "https://cronoscan.com",
+                "explorer_tx_url": "https://cronoscan.com/tx",
+                "cg_network_id": "cronos",
+                "native_currency_symbol": "CRO",
+                "native_currency_address": "0x5c7f8a570d578ed84e63fdfa7b1ee72deae1ae23",
+                "pool_reserve_threshold": "5000.0",
+                "image_url": "https://assets.geckoterminal.com/hqxp6mm5sb5jxw1ly34zklrpavpk",
+                "explorer_logo_url": "https://assets.geckoterminal.com/u75qtywdn95rfulfyfk07gb3r0op"
+            }
+        },
+        {
+            "id": "1257",
+            "attributes": {
+                "name": "WEMIX",
+                "identifier": "wemix",
+                "chain_id": 1111,
+                "explorer_url": "https://explorer.wemix.com",
+                "explorer_tx_url": "https://explorer.wemix.com",
+                "cg_network_id": "wemix-network",
+                "native_currency_symbol": "WEMIX",
+                "native_currency_address": "0x7d72b22a74a216af4a002a1095c8c707d6ec1c5f",
+                "pool_reserve_threshold": "50.0",
+                "image_url": "https://assets.geckoterminal.com/6kcz5zshxuaaebur44d9wspooslj",
+                "explorer_logo_url": "https://assets.geckoterminal.com/6c5ngmb71fbhxbeo7q9imzyaoiw8"
+            }
+        },
+        {
+            "id": "37",
+            "attributes": {
+                "name": "Astar",
+                "identifier": "astr",
+                "chain_id": 592,
+                "explorer_url": "https://blockscout.com/astar",
+                "explorer_tx_url": "https://blockscout.com/astar",
+                "cg_network_id": "astar",
+                "native_currency_symbol": "ASTR",
+                "native_currency_address": "0xaeaaf0e2c81af264101b9129c00f4440ccf0f720",
+                "pool_reserve_threshold": "150.0",
+                "image_url": "https://assets.geckoterminal.com/rm87elm746l9vgxyq88dml7x1udh",
+                "explorer_logo_url": "https://assets.geckoterminal.com/pfe9ajrjwpxr3hgznskmnhv0e9t5"
+            }
+        },
+        {
+            "id": "136",
+            "attributes": {
+                "name": "Solana",
+                "identifier": "solana",
+                "chain_id": null,
+                "explorer_url": "https://solscan.io",
+                "explorer_tx_url": "https://solscan.io",
+                "cg_network_id": "solana",
+                "native_currency_symbol": "SOL",
+                "native_currency_address": "So11111111111111111111111111111111111111112",
+                "pool_reserve_threshold": "20.0",
+                "image_url": "https://assets.geckoterminal.com/ttmzp815hr8hanm6bwxp549dq9rp",
+                "explorer_logo_url": "https://assets.geckoterminal.com/t2whbu2d1372tnu7gv9a714l3grs"
+            }
+        },
+        {
+            "id": "21",
+            "attributes": {
+                "name": "Huobi ECO Chain",
+                "identifier": "heco",
+                "chain_id": 128,
+                "explorer_url": "https://hecoinfo.com",
+                "explorer_tx_url": "https://hecoinfo.com",
+                "cg_network_id": "huobi-token",
+                "native_currency_symbol": "HT",
+                "native_currency_address": "0x5545153ccfca01fbd7dd11c0b23ba694d9509a6f",
+                "pool_reserve_threshold": "1000.0",
+                "image_url": "https://assets.geckoterminal.com/pyefqee8axmmadetm76j3vae1wdz",
+                "explorer_logo_url": "https://assets.geckoterminal.com/9782k05emjpv2p4pf4keqwr4xvu8"
+            }
+        },
+        {
+            "id": "168",
+            "attributes": {
+                "name": "Conflux",
+                "identifier": "cfx",
+                "chain_id": 1030,
+                "explorer_url": "https://evm.confluxscan.io",
+                "explorer_tx_url": "https://evm.confluxscan.io",
+                "cg_network_id": "conflux",
+                "native_currency_symbol": "cfx",
+                "native_currency_address": "0x14b2d3bc65e74dae1030eafd8ac30c533c976a9b",
+                "pool_reserve_threshold": "500.0",
+                "image_url": "https://assets.geckoterminal.com/1uj6brlwabm0cbgsg0vb3f8d0rd7",
+                "explorer_logo_url": "https://assets.geckoterminal.com/eni5oe3pxhtw7d66bkg95plw8vyp"
+            }
+        },
+        {
+            "id": "22",
+            "attributes": {
+                "name": "Moonbeam",
+                "identifier": "glmr",
+                "chain_id": 1284,
+                "explorer_url": "https://moonscan.io",
+                "explorer_tx_url": "https://moonscan.io",
+                "cg_network_id": "moonbeam",
+                "native_currency_symbol": "GLMR",
+                "native_currency_address": "0xacc15dc74880c9944775448304b263d191c6077f",
+                "pool_reserve_threshold": "10.0",
+                "image_url": "https://assets.geckoterminal.com/eq0poqyieb7md6yynb4eveplp7dp",
+                "explorer_logo_url": "https://assets.geckoterminal.com/he0zw76uw27dn35fwgwd8ifdxsjr"
+            }
+        },
+        {
+            "id": "16",
+            "attributes": {
+                "name": "OKExChain",
+                "identifier": "okexchain",
+                "chain_id": 66,
+                "explorer_url": "https://www.oklink.com/en/oec",
+                "explorer_tx_url": "https://www.oklink.com/en/oec",
+                "cg_network_id": "okex-chain",
+                "native_currency_symbol": "OKT",
+                "native_currency_address": "0x8f8526dbfd6e38e3d8307702ca8469bae6c56c15",
+                "pool_reserve_threshold": "200.0",
+                "image_url": "https://assets.geckoterminal.com/smpay1qyjf20rxemg6ksq72gw6iy",
+                "explorer_logo_url": "https://assets.geckoterminal.com/ak3drgbvnpmogas6tjn5x4mh0nff"
+            }
+        },
+        {
+            "id": "531",
+            "attributes": {
+                "name": "Dogechain",
+                "identifier": "dogechain",
+                "chain_id": 2000,
+                "explorer_url": "https://explorer.dogechain.dog",
+                "explorer_tx_url": "https://explorer.dogechain.dog",
+                "cg_network_id": "dogechain",
+                "native_currency_symbol": "doge",
+                "native_currency_address": "0xb7ddc6414bf4f5515b52d8bdd69973ae205ff101",
+                "pool_reserve_threshold": "100.0",
+                "image_url": "https://assets.geckoterminal.com/3kt9opfq8r5eig5s9tg5etoa1xdx",
+                "explorer_logo_url": "https://assets.geckoterminal.com/t8j3r1nrmyakw007nqsk1s2kz8uq"
+            }
+        },
+        {
+            "id": "102",
+            "attributes": {
+                "name": "DFK Chain",
+                "identifier": "dfk",
+                "chain_id": 53935,
+                "explorer_url": "https://avascan.info/blockchain/dfk",
+                "explorer_tx_url": "https://avascan.info/blockchain/dfk",
+                "cg_network_id": "defi-kingdoms-blockchain",
+                "native_currency_symbol": "CRYSTAL",
+                "native_currency_address": "0x04b9da42306b023f3572e106b11d82aad9d32ebb",
+                "pool_reserve_threshold": "3.0",
+                "image_url": "https://assets.geckoterminal.com/6v3kvp820kr4xvvdiz4sgw7g07tq",
+                "explorer_logo_url": "https://assets.geckoterminal.com/xnbeolvvglzl5i0q5xy73v5r9v6j"
+            }
+        },
+        {
+            "id": "31",
+            "attributes": {
+                "name": "Velas",
+                "identifier": "velas",
+                "chain_id": 106,
+                "explorer_url": "https://evmexplorer.velas.com",
+                "explorer_tx_url": "https://evmexplorer.velas.com",
+                "cg_network_id": "velas",
+                "native_currency_symbol": "VLX",
+                "native_currency_address": "0xc579d1f3cf86749e05cd06f7ade17856c2ce3126",
+                "pool_reserve_threshold": "20000.0",
+                "image_url": "https://assets.geckoterminal.com/fejak8s0thn4yswe1qbjijkehnxi",
+                "explorer_logo_url": "https://assets.geckoterminal.com/mjvaaevubr7gxgsbjxf3sz5plcp5"
+            }
+        },
+        {
+            "id": "1224",
+            "attributes": {
+                "name": "Empire Network",
+                "identifier": "empire_network",
+                "chain_id": 3693,
+                "explorer_url": "https://explorer.empirenetwork.io",
+                "explorer_tx_url": "https://explorer.empirenetwork.io",
+                "cg_network_id": null,
+                "native_currency_symbol": "EMPIRE",
+                "native_currency_address": "0xc84d8d03aa41ef941721a4d77b24bb44d7c7ac55",
+                "pool_reserve_threshold": "50.0",
+                "image_url": "https://assets.geckoterminal.com/b5oe6tcbvp3wforqdg80q8czvhfn",
+                "explorer_logo_url": "https://assets.geckoterminal.com/pm490jxhumru45sjt7wqnl9z2yyo"
+            }
+        },
+        {
+            "id": "17",
+            "attributes": {
+                "name": "Kucoin Community Chain",
+                "identifier": "kcc",
+                "chain_id": 321,
+                "explorer_url": "https://explorer.kcc.io",
+                "explorer_tx_url": "https://explorer.kcc.io",
+                "cg_network_id": "kucoin-community-chain",
+                "native_currency_symbol": "KCS",
+                "native_currency_address": "0x4446fc4eb47f2f6586f9faab68b3498f86c07521",
+                "pool_reserve_threshold": "300.0",
+                "image_url": "https://assets.geckoterminal.com/92qqv1zcvsa94mz4dx2sm46cn49j",
+                "explorer_logo_url": "https://assets.geckoterminal.com/t8gup3mr10zexbo7vunfy5h5f2fa"
+            }
+        },
+        {
+            "id": "6",
+            "attributes": {
+                "name": "Moonriver",
+                "identifier": "movr",
+                "chain_id": 1285,
+                "explorer_url": "https://moonriver.moonscan.io",
+                "explorer_tx_url": "https://moonriver.moonscan.io",
+                "cg_network_id": "moonriver",
+                "native_currency_symbol": "MOVR",
+                "native_currency_address": "0x98878b06940ae243284ca214f92bb71a2b032b8a",
+                "pool_reserve_threshold": "8.0",
+                "image_url": "https://assets.geckoterminal.com/pvvr0s3uxspq23w0edm2xhyss8zu",
+                "explorer_logo_url": "https://assets.geckoterminal.com/l8camkrf7xa3kjdyt86zyrm3d9s2"
+            }
+        },
+        {
+            "id": "993",
+            "attributes": {
+                "name": "FX",
+                "identifier": "fx",
+                "chain_id": 530,
+                "explorer_url": "https://starscan.io/evm",
+                "explorer_tx_url": "https://starscan.io/evm",
+                "cg_network_id": "function-x",
+                "native_currency_symbol": "FX",
+                "native_currency_address": "0x80b5a32e4f032b2a058b4f29ec95eefeeb87adcd",
+                "pool_reserve_threshold": "50.0",
+                "image_url": "https://assets.geckoterminal.com/8lj9f5dc1ixqlej7o223t3porn44",
+                "explorer_logo_url": "https://assets.geckoterminal.com/r82d6ppaa3g1d6cb4r48hwkai4uv"
+            }
+        },
+        {
+            "id": "465",
+            "attributes": {
+                "name": "Bitgert",
+                "identifier": "bitgert",
+                "chain_id": 32520,
+                "explorer_url": "https://brisescan.com",
+                "explorer_tx_url": "https://brisescan.com",
+                "cg_network_id": "bitgert",
+                "native_currency_symbol": "brise",
+                "native_currency_address": "0x0eb9036cbe0f052386f36170c6b07ef0a0e3f710",
+                "pool_reserve_threshold": "100.0",
+                "image_url": "https://assets.geckoterminal.com/gtt49ljjjyojwtgshpe9t7bnmrhi",
+                "explorer_logo_url": "https://assets.geckoterminal.com/n2hwh1ozyh5qgv33c8thn34ciu86"
+            }
+        },
+        {
+            "id": "12",
+            "attributes": {
+                "name": "Aurora",
+                "identifier": "aurora",
+                "chain_id": 1313161554,
+                "explorer_url": "https://aurorascan.dev",
+                "explorer_tx_url": "https://aurorascan.dev",
+                "cg_network_id": "aurora",
+                "native_currency_symbol": "NEAR",
+                "native_currency_address": "0xc42c30ac6cc15fac9bd938618bcaa1a1fae8501d",
+                "pool_reserve_threshold": "250.0",
+                "image_url": "https://assets.geckoterminal.com/8bnknlwon3wi0np7txxd99uxol2k",
+                "explorer_logo_url": "https://assets.geckoterminal.com/7l0kuv26sutyk0jhaetrel13kmhu"
+            }
+        },
+        {
+            "id": "35",
+            "attributes": {
+                "name": "Terra Classic",
+                "identifier": "terra",
+                "chain_id": null,
+                "explorer_url": "https://finder.terra.money/classic",
+                "explorer_tx_url": "https://finder.terra.money/classic",
+                "cg_network_id": "terra",
+                "native_currency_symbol": "LUNAC",
+                "native_currency_address": "uluna",
+                "pool_reserve_threshold": "50.0",
+                "image_url": "https://assets.geckoterminal.com/16qi25by7w5af4lbtntk9altpr0o",
+                "explorer_logo_url": "https://assets.geckoterminal.com/e8dcqvl6kpb1zq2vugqc2ow03fq8"
+            }
+        },
+        {
+            "id": "24",
+            "attributes": {
+                "name": "Energi",
+                "identifier": "nrg",
+                "chain_id": 39797,
+                "explorer_url": "https://explorer.energi.network",
+                "explorer_tx_url": "https://explorer.energi.network",
+                "cg_network_id": "energi",
+                "native_currency_symbol": "nrg",
+                "native_currency_address": "0xa55f26319462355474a9f2c8790860776a329aa4",
+                "pool_reserve_threshold": "50.0",
+                "image_url": "https://assets.geckoterminal.com/7p7fo7ielfncyx9lxugq0s0bf72b",
+                "explorer_logo_url": "https://assets.geckoterminal.com/8kuulz3v0o3ahf23a7kh5vxyesyt"
+            }
+        },
+        {
+            "id": "20",
+            "attributes": {
+                "name": "Gnosis XDAI",
+                "identifier": "xdai",
+                "chain_id": 100,
+                "explorer_url": "https://blockscout.com/xdai/mainnet",
+                "explorer_tx_url": "https://blockscout.com/xdai/mainnet",
+                "cg_network_id": "xdai",
+                "native_currency_symbol": "XDAI",
+                "native_currency_address": "0xe91d153e0b41518a2ce8dd3d7944fa863463a97d",
+                "pool_reserve_threshold": "100.0",
+                "image_url": "https://assets.geckoterminal.com/2r4p3wwade58b92610xv46bef838",
+                "explorer_logo_url": "https://assets.geckoterminal.com/b2pfyhqpj6ziv5uf5hql9c06rqj6"
+            }
+        },
+        {
+            "id": "1158",
+            "attributes": {
+                "name": "Oasys",
+                "identifier": "oasys",
+                "chain_id": 248,
+                "explorer_url": "https://scan.oasys.games",
+                "explorer_tx_url": "https://scan.oasys.games",
+                "cg_network_id": "oasys",
+                "native_currency_symbol": "OAS",
+                "native_currency_address": "0x5200000000000000000000000000000000000001",
+                "pool_reserve_threshold": "20.0",
+                "image_url": "https://assets.geckoterminal.com/v9uvkqdffgyvix25y37a29hcylzr",
+                "explorer_logo_url": "https://assets.geckoterminal.com/j87nmkj4ry0ml9vizz85nb7r0ci6"
+            }
+        },
+        {
+            "id": "696",
+            "attributes": {
+                "name": "Step Network",
+                "identifier": "step-network",
+                "chain_id": 1234,
+                "explorer_url": "https://stepscan.io",
+                "explorer_tx_url": "https://stepscan.io",
+                "cg_network_id": "step-network",
+                "native_currency_symbol": "FITFI",
+                "native_currency_address": "0xb58a9d5920af6ac1a9522b0b10f55df16686d1b6",
+                "pool_reserve_threshold": "250.0",
+                "image_url": "https://assets.geckoterminal.com/8kw8l0036yg0g2tuur0ao2felq4n",
+                "explorer_logo_url": "https://assets.geckoterminal.com/qt56ddk65u2uazsz25qmc0s617ko"
+            }
+        },
+        {
+            "id": "1059",
+            "attributes": {
+                "name": "Proof Of Memes",
+                "identifier": "proof_of_memes",
+                "chain_id": 18159,
+                "explorer_url": "https://explorer.memescan.io",
+                "explorer_tx_url": "https://explorer.memescan.io",
+                "cg_network_id": "proof-of-memes",
+                "native_currency_symbol": "POM",
+                "native_currency_address": "0xc84d8d03aa41ef941721a4d77b24bb44d7c7ac55",
+                "pool_reserve_threshold": "50.0",
+                "image_url": "https://assets.geckoterminal.com/fjcja5smiuncip4j19e9xdafscfi",
+                "explorer_logo_url": "https://assets.geckoterminal.com/xx76rbanoqh0cw13phcb38kg0pg4"
+            }
+        },
+        {
+            "id": "597",
+            "attributes": {
+                "name": "Arbitrum Nova",
+                "identifier": "arbitrum_nova",
+                "chain_id": 42170,
+                "explorer_url": "https://nova-explorer.arbitrum.io",
+                "explorer_tx_url": "https://nova-explorer.arbitrum.io",
+                "cg_network_id": "arbitrum-nova",
+                "native_currency_symbol": "ETH",
+                "native_currency_address": "0x722e8bdd2ce80a4422e880164f2079488e115365",
+                "pool_reserve_threshold": "3.0",
+                "image_url": "https://assets.geckoterminal.com/xiqrdcmzicnnr4fawm12dcp0g3kf",
+                "explorer_logo_url": "https://assets.geckoterminal.com/6ntmjjzpdulh8bq0jpzh4nv1awf1"
+            }
+        },
+        {
+            "id": "201",
+            "attributes": {
+                "name": "BitTorrent",
+                "identifier": "bttc",
+                "chain_id": 199,
+                "explorer_url": "https://bttcscan.com",
+                "explorer_tx_url": "https://bttcscan.com",
+                "cg_network_id": "bittorrent",
+                "native_currency_symbol": "btt",
+                "native_currency_address": "0x8d193c6efa90bcff940a98785d1ce9d093d3dc8a",
+                "pool_reserve_threshold": "250.0",
+                "image_url": "https://assets.geckoterminal.com/914dj05s5hbq8khiwdcwvva9tatz",
+                "explorer_logo_url": "https://assets.geckoterminal.com/k8ynf5hwjmposxljkod0ylwkrvo9"
+            }
+        },
+        {
+            "id": "18",
+            "attributes": {
+                "name": "IOTEX",
+                "identifier": "iotx",
+                "chain_id": 4689,
+                "explorer_url": "https://iotexscan.io",
+                "explorer_tx_url": "https://iotexscan.io",
+                "cg_network_id": "iotex",
+                "native_currency_symbol": "IOTX",
+                "native_currency_address": "0xa00744882684c3e4747faefd68d283ea44099d03",
+                "pool_reserve_threshold": "50000.0",
+                "image_url": "https://assets.geckoterminal.com/6baqslljjd54lb8rloyg0a30s0mi",
+                "explorer_logo_url": "https://assets.geckoterminal.com/c1wuw6pjbf9x2mol34x2z1jvh1bv"
+            }
+        },
+        {
+            "id": "498",
+            "attributes": {
+                "name": "Tombchain",
+                "identifier": "tombchain",
+                "chain_id": 6969,
+                "explorer_url": "https://tombscout.com",
+                "explorer_tx_url": "https://tombscout.com",
+                "cg_network_id": "tombchain",
+                "native_currency_symbol": "tomb",
+                "native_currency_address": "0xdeaddeaddeaddeaddeaddeaddeaddeaddead0000",
+                "pool_reserve_threshold": "200.0",
+                "image_url": "https://assets.geckoterminal.com/84p4hmm3v4mqzjaiplps6hvzb6q6",
+                "explorer_logo_url": "https://assets.geckoterminal.com/xcfxvc7m1frqwjivxp8qu8szpxd6"
+            }
+        },
+        {
+            "id": "798",
+            "attributes": {
+                "name": "Godwoken",
+                "identifier": "godwoken",
+                "chain_id": 71402,
+                "explorer_url": "https://v1.gwscan.com",
+                "explorer_tx_url": "https://v1.gwscan.com",
+                "cg_network_id": "godwoken",
+                "native_currency_symbol": "ckb",
+                "native_currency_address": "0xc296f806d15e97243a08334256c705ba5c5754cd",
+                "pool_reserve_threshold": "100.0",
+                "image_url": "https://assets.geckoterminal.com/edd6hj05xdckak4n977danr7051h",
+                "explorer_logo_url": "https://assets.geckoterminal.com/hynlwy65lilxd1sqad93a3tdia3k"
+            }
+        },
+        {
+            "id": "19",
+            "attributes": {
+                "name": "CELO",
+                "identifier": "celo",
+                "chain_id": 42220,
+                "explorer_url": "https://explorer.celo.org",
+                "explorer_tx_url": "https://explorer.celo.org",
+                "cg_network_id": "celo",
+                "native_currency_symbol": "CELO",
+                "native_currency_address": "0x471ece3750da237f93b8e339c536989b8978a438",
+                "pool_reserve_threshold": "1500.0",
+                "image_url": "https://assets.geckoterminal.com/eo2pnrjpolnmkjz9mqg49m2llvrh",
+                "explorer_logo_url": "https://assets.geckoterminal.com/ct6f1mo0i55kclxqo4sev2dyqgrw"
+            }
+        },
+        {
+            "id": "74",
+            "attributes": {
+                "name": "Milkomeda Cardano",
+                "identifier": "milkada",
+                "chain_id": 2001,
+                "explorer_url": "https://explorer-mainnet-cardano-evm.c1.milkomeda.com",
+                "explorer_tx_url": "https://explorer-mainnet-cardano-evm.c1.milkomeda.com",
+                "cg_network_id": "milkomeda-cardano",
+                "native_currency_symbol": "MilkADA",
+                "native_currency_address": "0xae83571000af4499798d1e3b0fa0070eb3a3e3f9",
+                "pool_reserve_threshold": "4000.0",
+                "image_url": "https://assets.geckoterminal.com/tq5jr2dn9hom0fymvvtd846c5zeg",
+                "explorer_logo_url": "https://assets.geckoterminal.com/0xey7t5wyvannua0zb6t50244kya"
+            }
+        },
+        {
+            "id": "36",
+            "attributes": {
+                "name": "Oasis Emerald",
+                "identifier": "oasis",
+                "chain_id": 42262,
+                "explorer_url": "https://explorer.emerald.oasis.dev",
+                "explorer_tx_url": "https://explorer.emerald.oasis.dev",
+                "cg_network_id": "oasis",
+                "native_currency_symbol": "ROSE",
+                "native_currency_address": "0x21c718c22d52d0f3a789b752d4c2fd5908a8a733",
+                "pool_reserve_threshold": "10.0",
+                "image_url": "https://assets.geckoterminal.com/rucvydmropv3zq78yrru9l7xhnib",
+                "explorer_logo_url": "https://assets.geckoterminal.com/hlpxw4c0g851cwz01e1x7bv2fedp"
+            }
+        },
+        {
+            "id": "1323",
+            "attributes": {
+                "name": "ONUS",
+                "identifier": "onus",
+                "chain_id": 1975,
+                "explorer_url": "https://explorer.onuschain.io",
+                "explorer_tx_url": "https://explorer.onuschain.io",
+                "cg_network_id": null,
+                "native_currency_symbol": "ONUS",
+                "native_currency_address": "0x4c761e48d1e735af551cc38abcbdce1d7faac6e4",
+                "pool_reserve_threshold": "50.0",
+                "image_url": "https://assets.geckoterminal.com/gmy388mu66w9zg2ehhwtrxyd9g1g",
+                "explorer_logo_url": "https://assets.geckoterminal.com/dgfsjyf5i86je537uos5prl8r1qh"
+            }
+        },
+        {
+            "id": "1191",
+            "attributes": {
+                "name": "Bitkub Chain",
+                "identifier": "bitkub_chain",
+                "chain_id": 96,
+                "explorer_url": "https://www.bkcscan.com",
+                "explorer_tx_url": "https://www.bkcscan.com",
+                "cg_network_id": "bitkub-chain",
+                "native_currency_symbol": "kub",
+                "native_currency_address": "0x67ebd850304c70d983b2d1b93ea79c7cd6c3f6b5",
+                "pool_reserve_threshold": "100.0",
+                "image_url": "https://assets.geckoterminal.com/6iil02bhlld7gmaqmwkgebyf93xi",
+                "explorer_logo_url": "https://assets.geckoterminal.com/n49y3jmguqk99wki06kl0xtyx3qo"
+            }
+        },
+        {
+            "id": "26",
+            "attributes": {
+                "name": "Wanchain",
+                "identifier": "wan",
+                "chain_id": 888,
+                "explorer_url": "https://www.wanscan.org",
+                "explorer_tx_url": "https://www.wanscan.org",
+                "cg_network_id": "wanchain",
+                "native_currency_symbol": "wan",
+                "native_currency_address": "0xdabd997ae5e4799be47d6e69d9431615cba28f48",
+                "pool_reserve_threshold": "100.0",
+                "image_url": "https://assets.geckoterminal.com/oq5q9xux1xzf17d9ssi0pylt7f4h",
+                "explorer_logo_url": "https://assets.geckoterminal.com/x33bzvjan63vdarvgdkk4bhxifk6"
+            }
+        },
+        {
+            "id": "333",
+            "attributes": {
+                "name": "XDC",
+                "identifier": "xdc",
+                "chain_id": 50,
+                "explorer_url": "https://explorer.xinfin.network",
+                "explorer_tx_url": "https://explorer.xinfin.network",
+                "cg_network_id": "xdc-network",
+                "native_currency_symbol": "xdc",
+                "native_currency_address": "0x951857744785e80e2de051c32ee7b25f9c458c42",
+                "pool_reserve_threshold": "250.0",
+                "image_url": "https://assets.geckoterminal.com/6iqm701t5v3kv33opq0u9xqoug5d",
+                "explorer_logo_url": "https://assets.geckoterminal.com/jn6xr14ai1u0g9sx4cp21ify1sj3"
+            }
+        },
+        {
+            "id": "861",
+            "attributes": {
+                "name": "Songbird",
+                "identifier": "songbird",
+                "chain_id": 19,
+                "explorer_url": "https://songbird-explorer.flare.network",
+                "explorer_tx_url": "https://songbird-explorer.flare.network",
+                "cg_network_id": "songbird",
+                "native_currency_symbol": "SGB",
+                "native_currency_address": "0x02f0826ef6ad107cfc861152b32b52fd11bab9ed",
+                "pool_reserve_threshold": "100.0",
+                "image_url": "https://assets.geckoterminal.com/9w3lzd9lr4tu9kvwnke5ysptwwc6",
+                "explorer_logo_url": "https://assets.geckoterminal.com/cxq4ilnnvz4l2i0riddydx4oht7x"
+            }
+        },
+        {
+            "id": "15",
+            "attributes": {
+                "name": "Fuse",
+                "identifier": "fuse",
+                "chain_id": 122,
+                "explorer_url": "https://explorer.fuse.io",
+                "explorer_tx_url": "https://explorer.fuse.io",
+                "cg_network_id": "fuse",
+                "native_currency_symbol": "FUSE",
+                "native_currency_address": "0x0be9e53fd7edac9f859882afdda116645287c629",
+                "pool_reserve_threshold": "8000.0",
+                "image_url": "https://assets.geckoterminal.com/mnn4d9yihx1nvd17uxdlqekflukw",
+                "explorer_logo_url": "https://assets.geckoterminal.com/hxa9jrs2oj65syj0a3bubec48zjh"
+            }
+        },
+        {
+            "id": "1060",
+            "attributes": {
+                "name": "PlatON Network",
+                "identifier": "platon_network",
+                "chain_id": 210425,
+                "explorer_url": "https://scan.platon.network",
+                "explorer_tx_url": "https://scan.platon.network",
+                "cg_network_id": null,
+                "native_currency_symbol": "LAT",
+                "native_currency_address": "0x02406d561069cbed27ef8ea20afd41779a90e2bf",
+                "pool_reserve_threshold": "50.0",
+                "image_url": "https://assets.geckoterminal.com/31r8v0eyelmm27im3k79ugg4pprx",
+                "explorer_logo_url": "https://assets.geckoterminal.com/erj4sjdnk7lsai8rkbqmf57bhsm2"
+            }
+        },
+        {
+            "id": "30",
+            "attributes": {
+                "name": "Meter",
+                "identifier": "mtr",
+                "chain_id": 82,
+                "explorer_url": "https://scan.meter.io",
+                "explorer_tx_url": "https://scan.meter.io",
+                "cg_network_id": "meter",
+                "native_currency_symbol": "MTRG",
+                "native_currency_address": "0x228ebbee999c6a7ad74a6130e81b12f9fe237ba3",
+                "pool_reserve_threshold": "1250.0",
+                "image_url": "https://assets.geckoterminal.com/wdhsbvosi4l5wwwvrdgz7i0h7jo1",
+                "explorer_logo_url": "https://assets.geckoterminal.com/vebhu20k0q1iz16da4gqa3zwr1jd"
+            }
+        },
+        {
+            "id": "11",
+            "attributes": {
+                "name": "SmartBCH",
+                "identifier": "bch",
+                "chain_id": 10000,
+                "explorer_url": "https://www.smartscan.cash",
+                "explorer_tx_url": "https://www.smartscan.cash",
+                "cg_network_id": "smartbch",
+                "native_currency_symbol": "BCH",
+                "native_currency_address": "0x3743ec0673453e5009310c727ba4eaf7b3a1cc04",
+                "pool_reserve_threshold": "100.0",
+                "image_url": "https://assets.geckoterminal.com/ffk9srcy5zwjl7wj7tpynh961yyt",
+                "explorer_logo_url": "https://assets.geckoterminal.com/ukk2bqljjb259dwht5v0e4ktwo5n"
+            }
+        },
+        {
+            "id": "1290",
+            "attributes": {
+                "name": "Flare",
+                "identifier": "flare",
+                "chain_id": 14,
+                "explorer_url": "https://flare-explorer.flare.network",
+                "explorer_tx_url": "https://flare-explorer.flare.network",
+                "cg_network_id": "flare-network",
+                "native_currency_symbol": "FLR",
+                "native_currency_address": "0x1d80c49bbbcd1c0911346656b529df9e5c2f783d",
+                "pool_reserve_threshold": "50.0",
+                "image_url": "https://assets.geckoterminal.com/bgkdjn7lxu5q969kkkus1ot2moqd",
+                "explorer_logo_url": "https://assets.geckoterminal.com/z1eapy0j7yxdlkzdq1voakzwp82z"
+            }
+        },
+        {
+            "id": "34",
+            "attributes": {
+                "name": "Syscoin",
+                "identifier": "sys",
+                "chain_id": 57,
+                "explorer_url": "https://explorer.syscoin.org",
+                "explorer_tx_url": "https://explorer.syscoin.org",
+                "cg_network_id": "syscoin",
+                "native_currency_symbol": "SYS",
+                "native_currency_address": "0xd3e822f3ef011ca5f17d82c956d952d8d7c3a1bb",
+                "pool_reserve_threshold": "10.0",
+                "image_url": "https://assets.geckoterminal.com/lxvbcx0wchxytg1to4rfs9d5d76l",
+                "explorer_logo_url": "https://assets.geckoterminal.com/sa6o5a3e1r7bch1dqkgq6ha50hgz"
+            }
+        },
+        {
+            "id": "9",
+            "attributes": {
+                "name": "Boba Network",
+                "identifier": "boba",
+                "chain_id": 288,
+                "explorer_url": "https://blockexplorer.boba.network",
+                "explorer_tx_url": "https://blockexplorer.boba.network",
+                "cg_network_id": "boba",
+                "native_currency_symbol": "BOBA",
+                "native_currency_address": "0xdeaddeaddeaddeaddeaddeaddeaddeaddead0000",
+                "pool_reserve_threshold": "3.0",
+                "image_url": "https://assets.geckoterminal.com/lmlla15z97y66ceca9e5nbb0lgg5",
+                "explorer_logo_url": "https://assets.geckoterminal.com/o81tqrlmbnxe3yx3hk0tw2vwx69i"
+            }
+        },
+        {
+            "id": "135",
+            "attributes": {
+                "name": "Evmos",
+                "identifier": "evmos",
+                "chain_id": 9001,
+                "explorer_url": "https://evm.evmos.org",
+                "explorer_tx_url": "https://evm.evmos.org",
+                "cg_network_id": "evmos",
+                "native_currency_symbol": "EVMOS",
+                "native_currency_address": "0xd4949664cd82660aae99bedc034a0dea8a0bd517",
+                "pool_reserve_threshold": "100.0",
+                "image_url": "https://assets.geckoterminal.com/cu7rb0tormsx93qyx4ggb0lii355",
+                "explorer_logo_url": "https://assets.geckoterminal.com/nrccj6jdry6m8v2f8erp04n1zceo"
+            }
+        },
+        {
+            "id": "267",
+            "attributes": {
+                "name": "SX Network",
+                "identifier": "sxn",
+                "chain_id": 416,
+                "explorer_url": "https://explorer.sx.technology",
+                "explorer_tx_url": "https://explorer.sx.technology",
+                "cg_network_id": "sx-network",
+                "native_currency_symbol": "sx",
+                "native_currency_address": "0xaa99be3356a11ee92c3f099bd7a038399633566f",
+                "pool_reserve_threshold": "250.0",
+                "image_url": "https://assets.geckoterminal.com/58tuicteq1ccwzyfynqcsy4drdoj",
+                "explorer_logo_url": "https://assets.geckoterminal.com/h7g3ou26f218uqfwrzjoya6rxgjx"
+            }
+        },
+        {
+            "id": "1225",
+            "attributes": {
+                "name": "Alvey",
+                "identifier": "alvey",
+                "chain_id": 3797,
+                "explorer_url": "https://alveyscan.com",
+                "explorer_tx_url": "https://alveyscan.com",
+                "cg_network_id": null,
+                "native_currency_symbol": "ALV",
+                "native_currency_address": "0xcb3e9919c56eff1004e54175a01e39163a352129",
+                "pool_reserve_threshold": "50.0",
+                "image_url": "https://assets.geckoterminal.com/sgvki4gfgj7t7mkq9xa6mbijaimc",
+                "explorer_logo_url": "https://assets.geckoterminal.com/vm9oavp89rsmbb4fqkxd0sfhvuh8"
+            }
+        },
+        {
+            "id": "927",
+            "attributes": {
+                "name": "Redlight Chain",
+                "identifier": "redlight_chain",
+                "chain_id": 2611,
+                "explorer_url": "https://redlightscan.finance",
+                "explorer_tx_url": "https://redlightscan.finance",
+                "cg_network_id": "redlight-chain",
+                "native_currency_symbol": "REDLC",
+                "native_currency_address": "0x00f22f97e249b980a1df5a091fccbd6599600779",
+                "pool_reserve_threshold": "100.0",
+                "image_url": "https://assets.geckoterminal.com/bstairgtyh7jgynhj2g1mqciityk",
+                "explorer_logo_url": "https://assets.geckoterminal.com/o9vbe2nugz28a9efqssqax7yogj8"
+            }
+        },
+        {
+            "id": "729",
+            "attributes": {
+                "name": "EthereumPOW",
+                "identifier": "ethw",
+                "chain_id": 10001,
+                "explorer_url": "https://www.oklink.com/en/ethw",
+                "explorer_tx_url": "https://www.oklink.com/en/ethw",
+                "cg_network_id": "ethereumpow",
+                "native_currency_symbol": "ethw",
+                "native_currency_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+                "pool_reserve_threshold": "50.0",
+                "image_url": "https://assets.geckoterminal.com/o3mkgufpqi9wt4x9lu2dqlhopvir",
+                "explorer_logo_url": "https://assets.geckoterminal.com/1lcqtqs17no6ttbp453cquaucm7t"
+            }
+        },
+        {
+            "id": "1125",
+            "attributes": {
+                "name": "Exosama",
+                "identifier": "exosama",
+                "chain_id": 2109,
+                "explorer_url": "https://explorer.exosama.com",
+                "explorer_tx_url": "https://explorer.exosama.com",
+                "cg_network_id": "exosama",
+                "native_currency_symbol": "SAMA",
+                "native_currency_address": "0x8c992cba48189a79204223d106fcb1d797a5f87a",
+                "pool_reserve_threshold": "20.0",
+                "image_url": "https://assets.geckoterminal.com/nwjzpridb81j8x24fjbok9z3q80i",
+                "explorer_logo_url": "https://assets.geckoterminal.com/hzkcdlsf46ulj42d87o1nw6h105j"
+            }
+        },
+        {
+            "id": "960",
+            "attributes": {
+                "name": "Tomochain",
+                "identifier": "tomochain",
+                "chain_id": 88,
+                "explorer_url": "https://tomoscan.io",
+                "explorer_tx_url": "https://tomoscan.io",
+                "cg_network_id": "tomochain",
+                "native_currency_symbol": "tomo",
+                "native_currency_address": "0xb1f66997a5760428d3a87d68b90bfe0ae64121cc",
+                "pool_reserve_threshold": "100.0",
+                "image_url": "https://assets.geckoterminal.com/9r2rzkm28bpd3xjmxdt41mgqvfz9",
+                "explorer_logo_url": "https://assets.geckoterminal.com/z387n7tzvokky6u1pdxb99wlsoee"
+            }
+        },
+        {
+            "id": "28",
+            "attributes": {
+                "name": "Kardiachain",
+                "identifier": "kai",
+                "chain_id": 24,
+                "explorer_url": "https://explorer.kardiachain.io",
+                "explorer_tx_url": "https://explorer.kardiachain.io",
+                "cg_network_id": "kardiachain",
+                "native_currency_symbol": "KAI",
+                "native_currency_address": "0xaf984e23eaa3e7967f3c5e007fbe397d8566d23d",
+                "pool_reserve_threshold": "1250.0",
+                "image_url": "https://assets.geckoterminal.com/c27sibb2pyik3jw55hzerw7fshj4",
+                "explorer_logo_url": "https://assets.geckoterminal.com/5a6dxxjzdql5v42lifa1f2zukvkg"
+            }
+        },
+        {
+            "id": "663",
+            "attributes": {
+                "name": "Ethereum Classic",
+                "identifier": "ethereum_classic",
+                "chain_id": 61,
+                "explorer_url": "https://www.oklink.com/en/etc",
+                "explorer_tx_url": "https://www.oklink.com/en/etc",
+                "cg_network_id": "ethereum-classic",
+                "native_currency_symbol": "etc",
+                "native_currency_address": "0x82a618305706b14e7bcf2592d4b9324a366b6dad",
+                "pool_reserve_threshold": "250.0",
+                "image_url": "https://assets.geckoterminal.com/t1f73zr4fk5i7negdktb8qd6u6aq",
+                "explorer_logo_url": "https://assets.geckoterminal.com/wi3cx5ow8uk7vp6xqmwyl7zffdwt"
+            }
+        },
+        {
+            "id": "73",
+            "attributes": {
+                "name": "Elastos",
+                "identifier": "ela",
+                "chain_id": 20,
+                "explorer_url": "https://esc.elastos.io",
+                "explorer_tx_url": "https://esc.elastos.io",
+                "cg_network_id": "elastos",
+                "native_currency_symbol": "ELA",
+                "native_currency_address": "0x517e9e5d46c1ea8ab6f78677d6114ef47f71f6c4",
+                "pool_reserve_threshold": "250.0",
+                "image_url": "https://assets.geckoterminal.com/6pa821cyq6tu87l9375hnv1dh0tg",
+                "explorer_logo_url": "https://assets.geckoterminal.com/pkn4si3gdm3euauyrdyiskv8uvis"
+            }
+        },
+        {
+            "id": "1026",
+            "attributes": {
+                "name": "MuuChain",
+                "identifier": "muuchain",
+                "chain_id": 20402,
+                "explorer_url": "https://explorer.muuchain.com",
+                "explorer_tx_url": "https://explorer.muuchain.com",
+                "cg_network_id": null,
+                "native_currency_symbol": "MUU",
+                "native_currency_address": "0x875358f6194d7c622d6355455f3137cceb2955c4",
+                "pool_reserve_threshold": "20.0",
+                "image_url": "https://assets.geckoterminal.com/rhbin8ulvk1p08alf5ctaj5o3hq7",
+                "explorer_logo_url": "https://assets.geckoterminal.com/9qjk9pjoszcttpnm8eq67hdaubwf"
+            }
+        },
+        {
+            "id": "565",
+            "attributes": {
+                "name": "ThunderCore",
+                "identifier": "thundercore",
+                "chain_id": 108,
+                "explorer_url": "https://viewblock.io/thundercore",
+                "explorer_tx_url": "https://viewblock.io/thundercore",
+                "cg_network_id": "thundercore",
+                "native_currency_symbol": "tt",
+                "native_currency_address": "0x413cefea29f2d07b8f2acfa69d92466b9535f717",
+                "pool_reserve_threshold": "250.0",
+                "image_url": "https://assets.geckoterminal.com/pz9kni4ylr1c59cd6u9yiul8jbuh",
+                "explorer_logo_url": "https://assets.geckoterminal.com/x5gy6qg5jq3z2mg1iuovlk81p542"
+            }
+        },
+        {
+            "id": "432",
+            "attributes": {
+                "name": "Kava",
+                "identifier": "kava",
+                "chain_id": 2222,
+                "explorer_url": "https://explorer.kava.io",
+                "explorer_tx_url": "https://explorer.kava.io",
+                "cg_network_id": "kava",
+                "native_currency_symbol": "kava",
+                "native_currency_address": "0xc86c7c0efbd6a49b35e8714c5f59d99de09a225b",
+                "pool_reserve_threshold": "250.0",
+                "image_url": "https://assets.geckoterminal.com/9lx52nbtjvtdzgr62jx4hxv5ui1o",
+                "explorer_logo_url": "https://assets.geckoterminal.com/8wzx6c9y3d1yeb2dgvyrj1gsudkn"
+            }
+        },
+        {
+            "id": "1092",
+            "attributes": {
+                "name": "Swimmer Network",
+                "identifier": "swimmer_network",
+                "chain_id": 73772,
+                "explorer_url": "https://avascan.info/blockchain/swimmer",
+                "explorer_tx_url": "https://avascan.info/blockchain/swimmer",
+                "cg_network_id": null,
+                "native_currency_symbol": "TUS",
+                "native_currency_address": "0x9c765eee6eff9cf1337a1846c0d93370785f6c92",
+                "pool_reserve_threshold": "20.0",
+                "image_url": "https://assets.geckoterminal.com/skw6irl7hckgoidrcijceul8x4b2",
+                "explorer_logo_url": "https://assets.geckoterminal.com/6txrvho7e4dz87uqinhyutullag5"
+            }
+        },
+        {
+            "id": "32",
+            "attributes": {
+                "name": "Shiden",
+                "identifier": "sdn",
+                "chain_id": 336,
+                "explorer_url": "https://blockscout.com/shiden",
+                "explorer_tx_url": "https://blockscout.com/shiden",
+                "cg_network_id": "shiden network",
+                "native_currency_symbol": "WSDN",
+                "native_currency_address": "0x0f933dc137d21ca519ae4c7e93f87a4c8ef365ef",
+                "pool_reserve_threshold": "1250.0",
+                "image_url": "https://assets.geckoterminal.com/e1j6djmgvdxtqt8hfqg6no5w77an",
+                "explorer_logo_url": "https://assets.geckoterminal.com/jbh3a0ukxdaz3zk7fleuqqtpf1vb"
+            }
+        },
+        {
+            "id": "366",
+            "attributes": {
+                "name": "CUBE Network",
+                "identifier": "cube_network",
+                "chain_id": 1818,
+                "explorer_url": "https://cubescan.network",
+                "explorer_tx_url": "https://cubescan.network",
+                "cg_network_id": "cube",
+                "native_currency_symbol": "cube",
+                "native_currency_address": "0x9d3f61338d6eb394e378d28c1fd17d5909ac6591",
+                "pool_reserve_threshold": "250.0",
+                "image_url": "https://assets.geckoterminal.com/53ondrgcmdfb7w34qi5y9w6h45tk",
+                "explorer_logo_url": "https://assets.geckoterminal.com/6ezfxwnf5db8pb5a0q45qx4pn6zt"
+            }
+        },
+        {
+            "id": "797",
+            "attributes": {
+                "name": "EthereumFair",
+                "identifier": "ethereumfair",
+                "chain_id": 513100,
+                "explorer_url": "https://www.oklink.com/en/ethf",
+                "explorer_tx_url": "https://www.oklink.com/en/ethf",
+                "cg_network_id": null,
+                "native_currency_symbol": "ETF",
+                "native_currency_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+                "pool_reserve_threshold": "1.0",
+                "image_url": "https://assets.geckoterminal.com/lznpgj67yx7dstbdyhvqvoxh5omd",
+                "explorer_logo_url": "https://assets.geckoterminal.com/5xmb6zgyvgf6u0a7ey4cje6tihun"
+            }
+        },
+        {
+            "id": "566",
+            "attributes": {
+                "name": "Clover Finance",
+                "identifier": "clover_finance",
+                "chain_id": 1024,
+                "explorer_url": "https://clvscan.com",
+                "explorer_tx_url": "https://clvscan.com",
+                "cg_network_id": null,
+                "native_currency_symbol": "clv",
+                "native_currency_address": "0x6d6ad95425fcf315c39fa6f3226471d4f16f27b3",
+                "pool_reserve_threshold": "250.0",
+                "image_url": "https://assets.geckoterminal.com/gb0afhp6drbqc8a0ucy49z0hscec",
+                "explorer_logo_url": "https://assets.geckoterminal.com/f4crrfz46oh3nf1h7gyeg6orilkx"
+            }
+        },
+        {
+            "id": "25",
+            "attributes": {
+                "name": "Hoo Smart Chain",
+                "identifier": "hsc",
+                "chain_id": 70,
+                "explorer_url": "https://hooscan.com",
+                "explorer_tx_url": "https://hooscan.com",
+                "cg_network_id": "hoo-smart-chain",
+                "native_currency_symbol": "hoo",
+                "native_currency_address": "0x3eff9d389d13d6352bfb498bcf616ef9b1beac87",
+                "pool_reserve_threshold": "100.0",
+                "image_url": "https://assets.geckoterminal.com/gewd0xos8d6lmqks1iqpesuzqzh6",
+                "explorer_logo_url": "https://assets.geckoterminal.com/r98geni40z7adksn1fv2beg9fm65"
+            }
+        },
+        {
+            "id": "33",
+            "attributes": {
+                "name": "Telos",
+                "identifier": "tlos",
+                "chain_id": 40,
+                "explorer_url": "https://www.teloscan.io",
+                "explorer_tx_url": "https://www.teloscan.io",
+                "cg_network_id": "telos",
+                "native_currency_symbol": "WTLOS",
+                "native_currency_address": "0xd102ce6a4db07d247fcc28f366a623df0938ca9e",
+                "pool_reserve_threshold": "1250.0",
+                "image_url": "https://assets.geckoterminal.com/rqpxwj9akldvcveaf8mq0b0t1czd",
+                "explorer_logo_url": "https://assets.geckoterminal.com/4c8loq2fxjrr2xmvrfbpcq1sghdp"
+            }
+        },
+        {
+            "id": "928",
+            "attributes": {
+                "name": "Kekchain",
+                "identifier": "kekchain",
+                "chain_id": 420420,
+                "explorer_url": "https://mainnet-explorer.kekchain.com",
+                "explorer_tx_url": "https://mainnet-explorer.kekchain.com",
+                "cg_network_id": null,
+                "native_currency_symbol": "kek",
+                "native_currency_address": "0x71ec0cb8f7dd4f4c5bd4204015c4c287fbdaa04a",
+                "pool_reserve_threshold": "1000.0",
+                "image_url": "https://assets.geckoterminal.com/w5uzq9iq0wk8mordhcc6n0uyavq0",
+                "explorer_logo_url": "https://assets.geckoterminal.com/4f5dhr1yj4rhh21qbadoumz6v1ai"
+            }
+        },
+        {
+            "id": "564",
+            "attributes": {
+                "name": "Findora",
+                "identifier": "findora",
+                "chain_id": 2152,
+                "explorer_url": "https://evm.findorascan.io",
+                "explorer_tx_url": "https://evm.findorascan.io",
+                "cg_network_id": "findora",
+                "native_currency_symbol": "fra",
+                "native_currency_address": "0x0000000000000000000000000000000000001000",
+                "pool_reserve_threshold": "200.0",
+                "image_url": "https://assets.geckoterminal.com/4wxhxn53o3dzay0dailkk0cm67pb",
+                "explorer_logo_url": "https://assets.geckoterminal.com/etirgkwa3y6otx03wq1fgbrqpmt8"
+            }
+        },
+        {
+            "id": "234",
+            "attributes": {
+                "name": "Echelon",
+                "identifier": "echelon",
+                "chain_id": 3000,
+                "explorer_url": "https://app.ech.network/explorer",
+                "explorer_tx_url": "https://app.ech.network/explorer",
+                "cg_network_id": "echelon",
+                "native_currency_symbol": "ech",
+                "native_currency_address": "0x4df9da1037108ed96c71fa77b85395cc21a86d60",
+                "pool_reserve_threshold": "10.0",
+                "image_url": "https://assets.geckoterminal.com/vg7rcnqhcnh0jsreltplknd0babd",
+                "explorer_logo_url": "https://assets.geckoterminal.com/jc2fbo526gbu6omx1pwzu7htoj54"
+            }
+        }
+    ]
+}

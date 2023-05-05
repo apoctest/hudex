@@ -1,0 +1,43 @@
+{
+    "name": "hudex",
+    "version": "1.0.0",
+    "description": "Hudex",
+    "main": "index.tsx",
+    "author": "Nizar Syahmi bin Nazlan <nizarsyahmi37@revoluzion.io> (https://nizarsyahmi37.com/)",
+    "tech-support": "Revoluzion <support@revoluzion.io> (https://revoluzion.io/)",
+    "license": "MIT",
+    "private": true,
+    "scripts": {
+        "patch-package": "patch-package && yarn build",
+        "dev": "next dev",
+        "build": "next build",
+        "start": "next start",
+        "lint": "next lint"
+    },
+    "dependencies": {
+        "@kyberswap/widgets": "^1.0.0",
+        "@types/node": "18.15.5",
+        "@types/react": "18.0.28",
+        "@web3modal/ethereum": "^2.3.3",
+        "@web3modal/react": "^2.3.3",
+        "ethers": "^5.7.2",
+        "next": "^13.2.4",
+        "patch-package": "^6.5.1",
+        "postinstall-postinstall": "^2.1.0",
+        "react": "^18.2.0",
+        "react-dom": "^18.2.0",
+        "react-slick": "^0.29.0",
+        "rubic-sdk": "^4.0.7",
+        "slick-carousel": "^1.8.1",
+        "typescript": "5.0.2",
+        "use-media": "^1.4.0",
+        "wagmi": "^0.12.9",
+        "web3": "^1.9.0"
+    },
+    "devDependencies": {
+        "crypto-browserify": "^3.12.0",
+        "http-browserify": "^1.7.0",
+        "https-browserify": "^1.0.0",
+        "stream-browserify": "^3.0.0"
+    }
+}

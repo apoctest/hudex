@@ -1,0 +1,13 @@
+diff --git a/node_modules/rubic-sdk/lib/features/cross-chain/status-manager/cross-chain-status-manager.js b/node_modules/rubic-sdk/lib/features/cross-chain/status-manager/cross-chain-status-manager.js
+index 0af949f..797ea95 100644
+--- a/node_modules/rubic-sdk/lib/features/cross-chain/status-manager/cross-chain-status-manager.js
++++ b/node_modules/rubic-sdk/lib/features/cross-chain/status-manager/cross-chain-status-manager.js
+@@ -1,7 +1,7 @@
+ "use strict";
+ Object.defineProperty(exports, "__esModule", { value: true });
+ exports.CrossChainStatusManager = void 0;
+-const scan_client_1 = require("@layerzerolabs/scan-client");
++const scan_client_1 = import("@layerzerolabs/scan-client");
+ const router_sdk_1 = require("@viaprotocol/router-sdk");
+ const rango_sdk_basic_1 = require("rango-sdk-basic");
+ const errors_1 = require("../../../common/errors");

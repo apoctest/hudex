@@ -1,0 +1,93 @@
+{
+    "general": {
+        "powered": "Powered by ",
+        "from": "From",
+        "to": "To",
+        "priceChange": "Price change",
+        "pools": "Pools",
+        "loading": "Loading...",
+        "connect": "Connect",
+        "disconnect": "Disconnect",
+        "hotPairs": "Hot Pairs",
+        "dailyGainers": "Daily Gainers",
+        "dailyLosers": "Daily Losers",
+        "comingSoon": "Coming Soon",
+        "comingSoonMessage": "We are working on serving you better, check back this page soon.",
+        "error404": "Error 404",
+        "error404Message": "Bummer, the page you are looking for does not exist.",
+        "goBackDashboard": "Go back to dashboard",
+        "tokenPrice": "Token price",
+        "placeholderAmount": "Enter amount of"
+    },
+    "main": {
+        "title": "Hudex.io",
+        "description": "Hudex",
+        "connect": "Connect Wallet",
+        "search": "Enter token name or contract address"
+    },
+    "search": {
+        "placeholder": "Enter token address (0x...)"
+    },
+    "chart": {
+        "placeholder": "Search the token you want to track"
+    },
+    "checker": {
+        "placeholder": "Enter token address (0x...)",
+        "resultTitle": "Check Report",
+        "basicInfo": "Basic Info",
+        "tokenInfo": "Token Info:",
+        "poolInfo": "Pool Info:",
+        "riskCheck": "Risk Check:",
+        "totalSupply": "Total Supply:",
+        "contractAddress": "Contract:",
+        "ownerAddress": "Owner:",
+        "creatorAddress": "Creator:",
+        "topHolders": "Top Holders:",
+        "totalHolders": "Total Holders:",
+        "lpHolders": "LP Holders:",
+        "anti_whale_modifiable": "Anti Whale Modifiable:",
+        "is_honeypot": "Is Honeypot:",
+        "is_mintable": "Is Mintable:",
+        "is_open_source": "Is Open Source:",
+        "owner_change_balance": "Owner Can Change Balance:",
+        "transfer_pausable": "Is Transfer Pausable:",
+        "is_whitelisted": "Use Whitelist:",
+        "is_blacklisted": "Use Blacklist:",
+        "is_proxy": "Use Proxy:",
+        "is_anti_whale": "Use Anti Whale:",
+        "selfdestruct": "Contract Can Self Destruct:",
+        "can_take_back_ownership": "Owner Can Take Back Ownership:"
+    },
+    "menu": [
+        {
+            "modifier": "dashboard",
+            "title": "Dashboard",
+            "icon": "bx bxs-dashboard",
+            "link": "/"
+        },
+        {
+            "modifier": "swap",
+            "title": "Swap",
+            "icon": "bx bx-transfer-alt",
+            "link": "/swap"
+        },
+        {
+            "modifier": "chart",
+            "title": "Token Chart",
+            "icon": "bx bxs-bar-chart-square",
+            "link": "/pair/bsc/0xb9d78A340f9b105099A298E0134948C83C5a5D1b"
+        },
+        {
+            "modifier": "multiChart",
+            "title": "Multi Chart",
+            "icon": "bx bx-line-chart",
+            "link": "/chart"
+        },
+        {
+            "modifier": "contractChecker",
+            "title": "Contract Checker",
+            "icon": "bx bxs-check-shield",
+            "link": "/checker"
+        }
+    ]
+}
